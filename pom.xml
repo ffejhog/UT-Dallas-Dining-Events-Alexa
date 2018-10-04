@@ -8,10 +8,13 @@
     <artifactId>utddiningevents</artifactId>
     <version>1.0</version>
 
-    <dependency>
-        <groupId>com.amazon.alexa</groupId>
-        <artifactId>ask-sdk</artifactId>
-        <version>2.6.0</version>
-    </dependency>
+    <dependencies>
+        <dependency>
+            <groupId>com.amazon.alexa</groupId>
+            <artifactId>ask-sdk</artifactId>
+            <version>2.6.0</version>
+        </dependency>
+
+    </dependencies>
 
 </project>
